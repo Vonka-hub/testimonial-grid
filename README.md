@@ -1,2 +1,2 @@
 # testimonial-grid
-front end excersice
+front end excercise
